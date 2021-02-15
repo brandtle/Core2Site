@@ -1,0 +1,44 @@
+body {
+ background-image: url("Brandt_Thek_8BestFeature.jpg");
+ background-repeat: no-repeat, repeat;
+ background-color: #cccccc;
+   -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+font-family: Courier, Courier New, Monospace;
+	width: 90%;
+	text-align: center;
+	margin: 0 auto;
+
+ font-size: 50px;
+
+color:  #cccccc;
+Text-shadow: 2px 2px 7px #D955E8;}
+
+	
+
+
+a:link {
+  color: hotpink;
+ text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color: #cccccc;
+ text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+ text-decoration: none;
+}
+
+/* selected link */
+a:active {
+  color: hotpink;
+ text-decoration: none;
+}
